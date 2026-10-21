@@ -1,8 +1,7 @@
 # Gram Seva Portal: Rural E-Government Portal on AWS
 
 **Student:** Yashashwi Jain
-**Registartion Number:** 24BCE2112
-**Faculty:** Dr. Saranya P
+**Registration Number:** 24BCE2112
 
 ## Overview
 A cloud-hosted portal where rural citizens apply for certificates and schemes, upload documents and track status, and officers approve applications. Built as a Cloud Architecture Design project on AWS.
